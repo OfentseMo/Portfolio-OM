@@ -36,9 +36,6 @@ __API testing__
   * gained experience through manual testing of APIs created for educational purposes
   * know how to manipulate requests and create test cases using the SoapUI tool
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
@@ -48,7 +45,7 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
+__Java fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
@@ -63,13 +60,6 @@ __TestRail__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
 
 ## Courses
 
